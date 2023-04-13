@@ -1,0 +1,20 @@
+C/C++
+C/C++ Extension Pack
+C/C++ Themes
+CMake
+Cmake Tools
+Hex Editor
+Jupyter
+Jupyter Cell Tags
+Jupyter Keymap
+Jupyter Notebook Renderers
+Jupyter Slide Show
+LaTex (language support - Mathematic Inc)
+LaTeX Utilities
+LaTeX Workshop
+LTeX - LanguageTool grammar/spell checking
+Pylance
+Python
+Spotify Theme
+vscode-spotify
+WSL
