@@ -1,20 +1,25 @@
-C/C++
-C/C++ Extension Pack
-C/C++ Themes
-CMake
-Cmake Tools
-Hex Editor
-Jupyter
-Jupyter Cell Tags
-Jupyter Keymap
-Jupyter Notebook Renderers
-Jupyter Slide Show
-LaTex (language support - Mathematic Inc)
-LaTeX Utilities
-LaTeX Workshop
-LTeX - LanguageTool grammar/spell checking
-Pylance
-Python
-Spotify Theme
-vscode-spotify
-WSL
+On Remote Machine:
+James-Yu.latex-workshop
+KevinRose.vsc-python-indent
+mathematic.vscode-latex
+ms-python.python
+ms-python.vscode-pylance
+ms-toolsai.jupyter
+ms-toolsai.jupyter-keymap
+ms-toolsai.jupyter-renderers
+ms-toolsai.vscode-jupyter-cell-tags
+ms-toolsai.vscode-jupyter-slideshow
+ms-vscode.cmake-tools
+ms-vscode.cpptools
+ms-vscode.cpptools-extension-pack
+ms-vscode.cpptools-themes
+ms-vscode.hexeditor
+oguhpereira.spotify-color-theme
+shyykoserhiy.vscode-spotify
+tecosaur.latex-utilities
+twxs.cmake
+valentjn.vscode-ltex
+wholroyd.jinja
+
+On Local Machine:
+ms-vscode-remote.remote-wsl
