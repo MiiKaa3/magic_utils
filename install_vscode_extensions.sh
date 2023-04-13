@@ -22,3 +22,5 @@ code --install-extension tecosaur.latex-utilities
 code --install-extension twxs.cmake
 code --install-extension valentjn.vscode-ltex
 code --install-extension wholroyd.jinja
+code --install-extension rust-lang.rust-analyzer
+code --install-extension bungcip.better-toml
