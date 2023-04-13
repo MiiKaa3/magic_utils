@@ -21,6 +21,8 @@ tecosaur.latex-utilities
 twxs.cmake
 valentjn.vscode-ltex
 wholroyd.jinja
+rust-lang.rust-analyzer
+bungcip.better-toml
 
 On Local Machine:
 ms-vscode-remote.remote-wsl
