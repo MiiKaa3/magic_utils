@@ -10,6 +10,8 @@ alias ll='exa -l --color=auto'
 alias la='exa -a --color=auto'
 alias lla='exa -l -a --color=auto'
 alias py='python -q'
+alias vi='nvim'
+alias vim='nvim'
 alias grep='grep --color=auto'
 PS1='\[\e[00;96m\]λ \W \[\e[0m\]>> '
 
