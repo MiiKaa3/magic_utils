@@ -1,5 +1,5 @@
 #!/bin/bash
 
-sudo pacman -S base-devel cmake wget curl git python python-pip exa ranger vim
+sudo pacman -S base-devel cmake wget curl git python python-pip exa ranger neovim
 code .
 ./install_vscode_extensions.sh

@@ -5,6 +5,8 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
+source ./.bashrc > /dev/null 2>&1
+
 alias ls='exa --color=auto'
 alias ll='exa -l --color=auto'
 alias la='exa -a --color=auto'
@@ -12,6 +14,7 @@ alias lla='exa -l -a --color=auto'
 alias py='python -q'
 alias vi='nvim'
 alias vim='nvim'
+alias qq='exit'
 alias grep='grep --color=auto'
 PS1='\[\e[00;96m\]λ \W \[\e[0m\]>> '
 
